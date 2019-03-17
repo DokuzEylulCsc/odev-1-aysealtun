@@ -1,0 +1,6 @@
+C:\Users\aysee\source\repos\askerOdev\askerOdev\bin\Debug\askerOdev.exe.config
+C:\Users\aysee\source\repos\askerOdev\askerOdev\bin\Debug\askerOdev.exe
+C:\Users\aysee\source\repos\askerOdev\askerOdev\bin\Debug\askerOdev.pdb
+C:\Users\aysee\source\repos\askerOdev\askerOdev\obj\Debug\askerOdev.csproj.CoreCompileInputs.cache
+C:\Users\aysee\source\repos\askerOdev\askerOdev\obj\Debug\askerOdev.exe
+C:\Users\aysee\source\repos\askerOdev\askerOdev\obj\Debug\askerOdev.pdb
